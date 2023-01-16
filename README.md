@@ -1,0 +1,1 @@
+# minishoppingmall_clone
